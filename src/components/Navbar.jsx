@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="mb-20 flex items-center justify-between">
       <div className="">
-        FTj <span className="font-bold">KOROBI</span>
+        FTJ <span className="font-bold">KOROBI</span>
       </div>
       <div className=" m-8 flex items-center justify-center gap-4 text-2xl">
         <FaLinkedin />
