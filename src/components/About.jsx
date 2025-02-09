@@ -1,15 +1,14 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { ABOUT_TEXT } from "../data.js";
 import profileImage from "../assets/about.jpg";
-const container = (delay) => ({
-  hidden: { x: -100, opacity: 0 },
-  visible: {
-    x: 0,
-    opacity: 1,
-    transition: { duration: 0.5, delay: delay },
-  },
-});
+// const container = (delay) => ({
+//   hidden: { x: -100, opacity: 0 },
+//   visible: {
+//     x: 0,
+//     opacity: 1,
+//     transition: { duration: 0.5, delay: delay },
+//   },
+// });
 const About = () => {
   return (
     <section className="border-b border-neutral-900 pb-4 lg:mb-36">

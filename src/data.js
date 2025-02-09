@@ -4,7 +4,15 @@ import project3 from "../src/assets/projects/project-3.jpg";
 import project4 from "../src/assets/projects/project-4.jpg";
 export const HERO_CONTENT = `Recent Khulna University graduate, currently pursuing advanced studies in Data Science at Pune University. Passionate about leveraging data to drive insights and innovation. Experienced in SQL, R programming, data analysis, and visualization. Skilled in applying machine learning techniques to real-world problems. Strong communicator and team player, eager to contribute to cutting-edge projects in the field of data science.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `As a recent graduate from Khulna University, I am passionate about data science and machine learning, and I am constantly striving to improve my skills in these areas.
+
+In pursuit of this passion, I have completed several training courses, including "The Complete SQL Bootcamp 2022: Go from Zero to Hero" and "Data Science and Machine Learning Bootcamp with R" on Udemy. Through these courses, I have gained a solid foundation in SQL syntax, database management, and data analysis techniques. Moreover, I have learned to leverage R programming language for data visualization, machine learning, and deep learning.
+
+My training has provided me with practical skills that I have applied in various contexts. For example, I have worked on projects that required me to extract insights from large data sets, perform data cleaning and pre-processing, and build predictive models. Additionally, I have experience working with tools such as PostgreSQL, PgAdmin, ggplot2, plotly, and Excel.
+
+In addition to my technical skills, I have also developed strong communication and teamwork abilities. I have collaborated with individuals from diverse backgrounds and skill sets to achieve project goals. My experience in these collaborations has taught me the importance of clear communication, active listening, and empathy.
+
+As I continue to develop my skills and experience, I am excited to explore opportunities to contribute to a dynamic organization that values innovation, creativity, and collaboration.`;
 
 export const EXPERIENCES = [
   {
@@ -69,7 +77,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Pune, Maharashtra, India .",
+  phoneNo: "+880 1754-737448 ",
+  email: "korobiftj@gmail.com",
 };

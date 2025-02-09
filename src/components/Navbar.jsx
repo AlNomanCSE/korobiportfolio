@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 const Navbar = () => {
@@ -8,7 +8,15 @@ const Navbar = () => {
         FTJ <span className="font-bold">KOROBI</span>
       </div>
       <div className=" m-8 flex items-center justify-center gap-4 text-2xl">
-        <FaLinkedin />
+      <a
+          href="https://www.linkedin.com/in/fatema-korobi/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-blue-600 transition-colors duration-300"
+        >
+          <FaLinkedin />
+          
+        </a>
         <FaGithub />
       </div>
     </nav>
