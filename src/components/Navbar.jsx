@@ -17,7 +17,15 @@ const Navbar = () => {
           <FaLinkedin />
           
         </a>
+        <a
+          href="https://github.com/Korobiftj"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-blue-600 transition-colors duration-300"
+        >
+          
         <FaGithub />
+        </a>
       </div>
     </nav>
   );
